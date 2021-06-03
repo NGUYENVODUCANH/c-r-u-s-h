@@ -1,7 +1,9 @@
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: `Trên thế giới có hơn 7 tỷ người với anh nụ cười em là đẹp nhất
-    nên là làm ơn hãy để anh giúp em giữ nụ cười đó.,
+    introDesc: `Trái đất vốn lạ thường 
+    Mà sao em cứ đi nhầm đường 
+    Lạc vào tim anh lẻ loi 
+    Đằng sau chữ yêu đây là thương,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
